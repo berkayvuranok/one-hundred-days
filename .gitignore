@@ -1,0 +1,17 @@
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Log dosyaları
+*.log
+*.tmp
+
+# Ortam dosyaları
+.env
+.env.local
+
+# Derleme / geçici dosyalar
+build/
+dist/
+out/
+tmp/
